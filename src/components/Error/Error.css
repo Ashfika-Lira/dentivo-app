@@ -1,0 +1,13 @@
+.try-again {
+  height: 50px;
+  width: 300px;
+  text-align: justify;
+  background-color: darkgrey;
+  color: white;
+  border-radius: 5px;
+  margin-left: 600px;
+  margin-right: 600px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}

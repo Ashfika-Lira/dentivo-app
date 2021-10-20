@@ -1,0 +1,26 @@
+[
+	{
+		"id": 11,
+		"name": "Dr. Simona Williams",
+		"img": "https://thegenius.co/dentistry/live2/wp-content/uploads/2015/10/doctor-pic-2.jpg",
+		"title": "Dentist-Orthodontist"
+	},
+	{
+		"id": 22,
+		"name": "Dr. Jeison Smith",
+		"img": "https://thegenius.co/dentistry/live2/wp-content/uploads/2015/10/doctor-pic-4.jpg",
+		"title": "Dentist, Oral surgeon"
+	},
+	{
+		"id": 33,
+		"name": "Dr. Sheila Coledero",
+		"img": "https://thegenius.co/dentistry/live2/wp-content/uploads/2015/10/doctor-pic-3.jpg",
+		"title": "Dental Therapist"
+	},
+	{
+		"id": 44,
+		"name": "Dr. Alex Coledero",
+		"img": "https://thegenius.co/dentistry/live2/wp-content/uploads/2015/10/doctor-pic-1.jpg",
+		"title": "Dental Assistant"
+    }
+]

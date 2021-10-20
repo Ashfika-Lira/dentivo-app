@@ -1,0 +1,38 @@
+[
+	{
+		"key": 1,
+		"name": "Teeth Whitening",
+		"img": "https://i.ibb.co/TRpX3Dw/1.png",
+		"description": "Teeth whitening isn’t permanent. It can lasts up to 3 years – it varies from person to person. The whitening effect won’t last as long if you smoke or drink red wine, tea or coffee, which can all stain your teeth."
+	},
+	{
+		"key": 2,
+		"name": "Root Canal",
+		"img": "https://i.ibb.co/Y8WcFP9/2.png",
+		"description": "Root canal treatment (endodontics) is a dental procedure used to treat infection at the centre of a tooth. Root canal treatment is not painful and can save a tooth that might otherwise have to be removed completely."
+	},
+	{
+		"key": 3,
+		"name": "Gum Treatment",
+		"img": "https://i.ibb.co/XjLwVfG/3.png",
+		"description": "In some cases of gum disease,root planing may be required.This is a deep clean under the gums that gets rid of bacteria from the roots of your teeth.Before having the treatment,you may need to have a local anaesthetic."
+	},
+	{
+		"key": 4,
+		"name": "Teeth Cleaning",
+		"img": "https://i.ibb.co/Bg35RB6/4.png",
+		"description": "Most teeth cleanings are performed by a dental hygienist. Before the actual cleaning process begins, they start with a physical exam of your entire mouth.Teeth cleaning is part of oral hygiene"
+    },
+	{
+		"key": 5,
+		"name": "Dental Implants",
+		"img": "https://i.ibb.co/qkVLV3F/5.png",
+		"description": "Dental implants are replacement tooth roots. Implants provide a strong foundation for fixed (permanent) or removable replacement teeth that are made to match your natural teeth."
+	},
+	{
+		"key": 6,
+		"name": "Orthodontics",
+		"img": "https://i.ibb.co/yQLncnW/6.png",
+		"description": "Orthodontics is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns. It also address the modification of facial growth."
+	}
+]
