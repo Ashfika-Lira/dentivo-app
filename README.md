@@ -1,4 +1,4 @@
-# Getting Started with Un Dojo
+# Getting Started with Dentivo
 
 This project was designed with [Create React App] & Raw CSS(https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-Ashfika-Lira).
 
