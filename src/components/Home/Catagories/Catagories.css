@@ -1,0 +1,36 @@
+.feature1 {
+  background-image: url(https://www.swamprabbitdental.com/wp-content/uploads/2021/01/Oral-hygiene.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  width: 265px !important;
+  text-align: center;
+}
+.feature2 {
+  background-image: url(https://www.swamprabbitdental.com/wp-content/uploads/2021/01/New-Sealants.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  margin: 10px 13px;
+  text-align: center;
+}
+.feature3 {
+  background-image: url(https://www.swamprabbitdental.com/wp-content/uploads/2021/01/Extractions.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  width: 265px !important;
+  text-align: center;
+}
+
+.feature1 button,
+.feature2 button,
+.feature3 button {
+  margin-top: 190px;
+  border-radius: 10px;
+  background-color: white;
+  color: #eb0f5d;
+}

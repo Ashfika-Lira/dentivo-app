@@ -25,21 +25,15 @@ function App() {
             <Route path="/home">
               <Home></Home>
             </Route>
-            {/* <PrivateRoute path="/inventory">
-              <Inventory></Inventory>
-            </PrivateRoute> */}
-            {/* <PrivateRoute path="/appointment">
+            <PrivateRoute path="/appointment">
               <Appointment></Appointment>
-            </PrivateRoute> */}
-            <Route path="/appointment">
-              <Appointment></Appointment>
-            </Route>
-            <Route path="/dentists">
+            </PrivateRoute>
+            <PrivateRoute path="/dentists">
               <Dentists></Dentists>
-            </Route>
-            <Route path="/detail/:id">
+            </PrivateRoute>
+            <PrivateRoute path="/detail/:id">
               <ServiceDetail></ServiceDetail>
-            </Route>
+            </PrivateRoute>
             <Route path="/login">
               <Login></Login>
             </Route>

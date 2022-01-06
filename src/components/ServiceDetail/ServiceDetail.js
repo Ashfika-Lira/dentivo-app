@@ -8,7 +8,7 @@ const ServiceDetail = () => {
 
 
    useEffect(() => {
-      fetch('./detail.JSON')
+      fetch("./detail.JSON")
       .then(res => res.json())
       .then(data => setDetail(data))
 
